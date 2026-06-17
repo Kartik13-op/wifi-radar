@@ -116,7 +116,7 @@ wifi_radar/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourname/wifi-radar.git
+git clone https://github.com/Kartik13-op/wifi-radar.git
 cd wifi-radar
 ```
 
