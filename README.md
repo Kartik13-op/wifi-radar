@@ -359,11 +359,7 @@ For best results:
 
 Potential future additions:
 
-* CSI-based sensing support
-* Multi-device triangulation
-* Machine learning classification
-* Web dashboard
-* Heatmap visualization
+* Machine Learning Classification
 * Historical analytics
 
 ---
